@@ -1,6 +1,6 @@
 [
   {
-    "id": "sig_20260329_174311_128315",
+    "id": "sig_20260329_180627_a5a0df",
     "ticker": "RELIANCE",
     "event_type": "INSIDER_TRADE",
     "actor": "Director — Hital R. Meswani",
@@ -13,7 +13,7 @@
     "raw_text": "Director Hital R. Meswani acquired 75,000 equity shares of Reliance Industries Ltd at an average price of ₹2,500 per share through open market purchase."
   },
   {
-    "id": "sig_20260329_174311_5542dc",
+    "id": "sig_20260329_180627_361b70",
     "ticker": "RELIANCE",
     "event_type": "INSIDER_TRADE",
     "actor": "Director — Nikhil R. Meswani",
@@ -26,7 +26,7 @@
     "raw_text": "Director Nikhil R. Meswani acquired 50,000 equity shares of Reliance Industries Ltd at an average price of ₹2,500 through open market purchase."
   },
   {
-    "id": "sig_20260329_174311_818ace",
+    "id": "sig_20260329_180627_6558ea",
     "ticker": "RELIANCE",
     "event_type": "INSIDER_TRADE",
     "actor": "KMP — Srinivas Phatak (CFO)",
@@ -39,7 +39,7 @@
     "raw_text": "KMP Srinivas Phatak (Chief Financial Officer) acquired 25,000 equity shares of Reliance Industries Ltd."
   },
   {
-    "id": "sig_20260329_174311_e4fb3e",
+    "id": "sig_20260329_180627_08e269",
     "ticker": "TCS",
     "event_type": "INSIDER_TRADE",
     "actor": "Director — N. Ganapathy Subramaniam",
@@ -52,7 +52,7 @@
     "raw_text": "Director N. Ganapathy Subramaniam acquired 30,000 equity shares at ₹3,800 per share."
   },
   {
-    "id": "sig_20260329_174311_453ff0",
+    "id": "sig_20260329_180627_3830c9",
     "ticker": "TCS",
     "event_type": "INSIDER_TRADE",
     "actor": "Director — Rajesh Gopinathan",
@@ -65,7 +65,7 @@
     "raw_text": "Director Rajesh Gopinathan acquired 20,000 equity shares through market purchase."
   },
   {
-    "id": "sig_20260329_174311_67b06d",
+    "id": "sig_20260329_180627_001d60",
     "ticker": "HDFCBANK",
     "event_type": "BLOCK_DEAL",
     "actor": "Institution — SBI Mutual Fund",
@@ -78,7 +78,7 @@
     "raw_text": "SBI Mutual Fund acquired 5,00,000 shares of HDFC Bank in a single block deal worth ₹8.25 Cr at ₹1,650 per share."
   },
   {
-    "id": "sig_20260329_174311_83e1cb",
+    "id": "sig_20260329_180627_d44f16",
     "ticker": "HDFCBANK",
     "event_type": "INSIDER_TRADE",
     "actor": "Director — Atanu Chakraborty",
@@ -91,7 +91,7 @@
     "raw_text": "Part-time Chairman Atanu Chakraborty acquired 15,000 equity shares of HDFC Bank."
   },
   {
-    "id": "sig_20260329_174311_46b422",
+    "id": "sig_20260329_180627_7924c0",
     "ticker": "INFY",
     "event_type": "INSIDER_TRADE",
     "actor": "Promoter — Nandan Nilekani",
@@ -104,7 +104,7 @@
     "raw_text": "Promoter Nandan Nilekani sold 1,00,000 equity shares of Infosys at ₹1,550 per share."
   },
   {
-    "id": "sig_20260329_174311_c9328b",
+    "id": "sig_20260329_180627_a40d7d",
     "ticker": "INFY",
     "event_type": "INSIDER_TRADE",
     "actor": "KMP — Jayesh Sanghrajka (CFO)",
@@ -117,7 +117,7 @@
     "raw_text": "CFO Jayesh Sanghrajka sold 50,000 equity shares of Infosys."
   },
   {
-    "id": "sig_20260329_174311_3f6a38",
+    "id": "sig_20260329_180627_2b69f8",
     "ticker": "ITC",
     "event_type": "BULK_DEAL",
     "actor": "Institution — BAT (British American Tobacco)",
@@ -130,7 +130,7 @@
     "raw_text": "BAT sold 20,00,000 shares of ITC Ltd in a bulk deal at ₹450 per share."
   },
   {
-    "id": "sig_20260329_174311_ff93f7",
+    "id": "sig_20260329_180627_d624b5",
     "ticker": "RELIANCE",
     "event_type": "QUARTERLY_RESULT",
     "actor": "Company — Reliance Industries Ltd",
@@ -143,7 +143,7 @@
     "raw_text": "Reliance Industries reported Q3 FY26 consolidated revenue of ₹2,35,000 Cr (up 12% YoY). Net profit at ₹19,500 Cr (up 15% YoY). Jio subscriber base crossed 490 million. Retail segment EBITDA grew 22%. Management guided for accelerated capex in new energy business with ₹75,000 Cr investment over next 3 years."
   },
   {
-    "id": "sig_20260329_174311_8591d6",
+    "id": "sig_20260329_180627_ae8694",
     "ticker": "TCS",
     "event_type": "QUARTERLY_RESULT",
     "actor": "Company — Tata Consultancy Services",
@@ -156,7 +156,7 @@
     "raw_text": "TCS reported Q3 FY26 revenue of ₹63,800 Cr (up 6% YoY). Net profit ₹12,400 Cr. BFSI vertical grew 8%, strong deal pipeline of $12.2B. Attrition reduced to 11.2%. Management commentary highlighted 'strong demand for AI-led transformation deals' and expects 'double-digit growth corridor in FY27'."
   },
   {
-    "id": "sig_20260329_174311_07e602",
+    "id": "sig_20260329_180627_17b7b9",
     "ticker": "HDFCBANK",
     "event_type": "INSIDER_TRADE",
     "actor": "Director — Kaizad Bharucha (ED)",
@@ -169,7 +169,7 @@
     "raw_text": "Executive Director Kaizad Bharucha acquired 20,000 equity shares of HDFC Bank at ₹1,650 per share."
   },
   {
-    "id": "sig_20260329_174311_ce553a",
+    "id": "sig_20260329_180627_4398d5",
     "ticker": "ITC",
     "event_type": "INSIDER_TRADE",
     "actor": "Director — Sanjiv Puri (CMD)",
@@ -182,7 +182,7 @@
     "raw_text": "CMD Sanjiv Puri acquired 40,000 equity shares of ITC Ltd at ₹450 per share."
   },
   {
-    "id": "sig_20260329_174311_7e026f",
+    "id": "sig_20260329_180627_f28fa4",
     "ticker": "INFY",
     "event_type": "QUARTERLY_RESULT",
     "actor": "Company — Infosys Ltd",

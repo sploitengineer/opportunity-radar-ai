@@ -54,6 +54,11 @@ def calculate_backtest(ticker: str, direction: str, signal_type: str) -> dict:
     nse_ticker = get_nse_ticker(ticker)
 
     try:
+        from config import DEMO_MODE
+        if DEMO_MODE:
+            # Skip live API fetch entirely during demo to prevent network timeouts/hanging
+            return _generate_mock_backtest(ticker, direction)
+
         import yfinance as yf
 
         stock = yf.Ticker(nse_ticker)

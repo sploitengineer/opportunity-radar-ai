@@ -1,38 +1,38 @@
 [
   {
-    "timestamp": "2026-03-29T17:43:07.566638Z",
+    "timestamp": "2026-03-29T18:06:23.254485Z",
     "agent": "Sentinel",
     "input_hash": "sha256:e2f4ca87b0e0fbab",
     "output_hash": "sha256:930acb167b725903",
     "decision": "DATA_INGESTED",
     "reasoning_snippet": "Ingested 15 events: 10 insider trades, 1 block deals, 1 bulk deals, 3 quarterly results",
-    "latency_ms": 3041
+    "latency_ms": 3089
   },
   {
-    "timestamp": "2026-03-29T17:43:11.684217Z",
+    "timestamp": "2026-03-29T18:06:27.323620Z",
     "agent": "Cartographer",
     "input_hash": "sha256:dce0d081770844e9",
     "output_hash": "sha256:f7fb3982200ec3a0",
     "decision": "DATA_NORMALIZED",
     "reasoning_snippet": "Normalized 15 events, 15 new, 0 duplicates removed",
-    "latency_ms": 4072
+    "latency_ms": 4008
   },
   {
-    "timestamp": "2026-03-29T17:43:17.760125Z",
+    "timestamp": "2026-03-29T18:06:33.438431Z",
     "agent": "Bloodhound",
     "input_hash": "sha256:ccbc2be6853e2dc5",
     "output_hash": "sha256:97d93882f77e786f",
     "decision": "CLUSTERS_DETECTED",
     "reasoning_snippet": "Detected 5 total clusters, 5 candidates (z≥2.0), 1 require HITL review (z≥3.5)",
-    "latency_ms": 6025
+    "latency_ms": 6112
   },
   {
-    "timestamp": "2026-03-29T17:43:23.387986Z",
+    "timestamp": "2026-03-29T18:07:15.020390Z",
     "agent": "Archaeologist",
     "input_hash": "sha256:5627951037a0ff2c",
     "output_hash": "sha256:ff139c049aa50a66",
     "decision": "CONTEXT_RETRIEVED",
     "reasoning_snippet": "Retrieved 8 context chunks for 4 tickers",
-    "latency_ms": 5612
+    "latency_ms": 41577
   }
 ]
