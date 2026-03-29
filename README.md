@@ -169,8 +169,8 @@ opportunity-radar/
 
 | Name | Role |
 |------|------|
-| Member 1 | Backend + Agent Pipeline |
-| Member 2 | Frontend + UI/UX |
+| Kaushalendra | Backend + Agent Pipeline |
+| Shivang | Frontend + UI/UX |
 
 ---
 
