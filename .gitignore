@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+venv/
+.venv/
+
+# Environment
+.env
+
+# Data (runtime generated)
+data/raw/
+data_rag/rag_index/*.index
+data_rag/rag_index/chunks.json
+logs/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+npm-debug.log*
+
+# Misc
+*.pyc
+*.pyo

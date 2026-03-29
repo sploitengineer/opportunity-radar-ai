@@ -1,0 +1,100 @@
+{
+  "RELIANCE": {
+    "company_name": "Reliance Industries Ltd",
+    "sector": "Energy / Conglomerate",
+    "nse_ticker": "RELIANCE.NS",
+    "filings": [
+      {
+        "type": "QUARTERLY_RESULT",
+        "quarter": "Q2 FY26",
+        "date": "2025-12-15",
+        "source": "BSE Filing — RELIANCE — Q2 FY26",
+        "text": "Reliance Industries reported Q2 FY26 consolidated revenue of ₹2,18,000 Cr (up 10% YoY). Net profit at ₹17,800 Cr. Jio added 12 million subscribers in the quarter, taking total to 478 million. Retail segment opened 900 new stores. Management commentary: 'We are on track for our new energy commitments. The ₹75,000 Cr capex plan for solar, hydrogen, and battery storage is progressing ahead of schedule. We expect commissioning of the Dhirubhai Ambani Green Energy Giga Complex in Jamnagar by Q1 FY27.'"
+      },
+      {
+        "type": "QUARTERLY_RESULT",
+        "quarter": "Q1 FY26",
+        "date": "2025-09-20",
+        "source": "BSE Filing — RELIANCE — Q1 FY26",
+        "text": "Revenue ₹2,10,000 Cr. Net profit ₹16,500 Cr. Jio ARPU increased to ₹195 (up ₹8 QoQ) following tariff revision. Management promised: 'We will demonstrate monetization of our digital and retail platforms in the next 2-3 quarters. Jio Financial Services will start contributing meaningfully to consolidated numbers.' Oil-to-chemicals margin under pressure due to global refining weakness."
+      },
+      {
+        "type": "ANNUAL_REPORT",
+        "quarter": "FY25",
+        "date": "2025-07-10",
+        "source": "BSE Filing — RELIANCE — Annual Report FY25",
+        "text": "Full year revenue ₹8,30,000 Cr. Consumer business (Jio + Retail) now contributes 52% of EBITDA, up from 45% in FY24. Insider trading activity in FY25: 4 directors made open market purchases totalling ₹32 Cr in Q3 FY25, which preceded a 12% stock price rally over the following 45 days. This was flagged by analysts as a 'strong conviction signal from the promoter group.'"
+      }
+    ]
+  },
+  "TCS": {
+    "company_name": "Tata Consultancy Services",
+    "sector": "Technology",
+    "nse_ticker": "TCS.NS",
+    "filings": [
+      {
+        "type": "QUARTERLY_RESULT",
+        "quarter": "Q2 FY26",
+        "date": "2025-12-10",
+        "source": "BSE Filing — TCS — Q2 FY26",
+        "text": "TCS reported Q2 FY26 revenue of ₹61,500 Cr (up 5.2% YoY). Deal TCV at $8.6B for the quarter, highest in 6 quarters. BFSI grew 6.5%, retail grew 4.8%. Management: 'We are seeing a clear recovery in discretionary spending. Cloud migration deals are now being augmented with AI implementation layers. We have won 5 deals worth over $100M each this quarter, all with significant AI components.' Attrition at 12.1%."
+      },
+      {
+        "type": "QUARTERLY_RESULT",
+        "quarter": "Q1 FY26",
+        "date": "2025-09-15",
+        "source": "BSE Filing — TCS — Q1 FY26",
+        "text": "Revenue ₹59,200 Cr. Net profit ₹11,200 Cr. Management flagged 'cautious client spending in North America' but 'strong pipeline in European markets.' Attrition at 12.8%. 'Our generative AI practice now has 180 active engagements, up from 80 in Q4 FY25. We expect this to become a $1B revenue stream within 18 months.' TCS reported insider purchases by 2 independent directors worth ₹4.5 Cr in July 2025."
+      }
+    ]
+  },
+  "HDFCBANK": {
+    "company_name": "HDFC Bank Ltd",
+    "sector": "Banking",
+    "nse_ticker": "HDFCBANK.NS",
+    "filings": [
+      {
+        "type": "QUARTERLY_RESULT",
+        "quarter": "Q2 FY26",
+        "date": "2025-12-18",
+        "source": "BSE Filing — HDFCBANK — Q2 FY26",
+        "text": "HDFC Bank reported Q2 FY26 NII of ₹30,100 Cr (up 8% YoY). Net profit ₹16,800 Cr. NIM at 3.58%. Advances grew 14% YoY. The bank's deposit growth accelerated to 16% following the merger integration. Management: 'We have now fully integrated HDFC Ltd's loan book. The merger synergies are ahead of plan — cost savings of ₹2,800 Cr annually realized vs. ₹2,200 Cr estimated. We expect NIM expansion of 15-20 bps in the coming quarters.' GNPA at 1.24%, a 5-year low."
+      },
+      {
+        "type": "QUARTERLY_RESULT",
+        "quarter": "Q1 FY26",
+        "date": "2025-09-22",
+        "source": "BSE Filing — HDFCBANK — Q1 FY26",
+        "text": "NII ₹28,800 Cr. GNPA at 1.33%. Management promised 'return to pre-merger RoA levels of 2.0%+ within 4 quarters.' Deposit granularity improving — CASA ratio improved to 40.2% from 38.5%. Insider buying note: 3 executive directors purchased shares worth ₹12 Cr combined in August 2025, the largest cluster in 3 years."
+      }
+    ]
+  },
+  "INFY": {
+    "company_name": "Infosys Ltd",
+    "sector": "Technology",
+    "nse_ticker": "INFY.NS",
+    "filings": [
+      {
+        "type": "QUARTERLY_RESULT",
+        "quarter": "Q2 FY26",
+        "date": "2025-12-12",
+        "source": "BSE Filing — INFY — Q2 FY26",
+        "text": "Infosys reported Q2 FY26 revenue of ₹40,200 Cr (up 4.8% YoY). Operating margin at 20.1%. Large deal TCV at $3.8B. Management: 'We are cautiously optimistic. Client budgets for CY2026 are firming up with a clear AI-first mandate. Our Infosys Topaz AI platform has been adopted by 180+ enterprises.' Promoter Nandan Nilekani sold shares worth ₹42 Cr — company clarified this was part of a pre-arranged trading plan, not a signal on company outlook."
+      }
+    ]
+  },
+  "ITC": {
+    "company_name": "ITC Ltd",
+    "sector": "FMCG / Conglomerate",
+    "nse_ticker": "ITC.NS",
+    "filings": [
+      {
+        "type": "QUARTERLY_RESULT",
+        "quarter": "Q2 FY26",
+        "date": "2025-12-20",
+        "source": "BSE Filing — ITC — Q2 FY26",
+        "text": "ITC reported Q2 FY26 revenue of ₹18,200 Cr (up 7% YoY). FMCG EBITDA margin expanded to 11.2% from 9.8% YoY — a key inflection point. Cigarette volumes grew 4% despite price increases. Management: 'The ITC Hotels demerger is on track for Q4 FY26 completion. Post-demerger, ITC's FMCG business will be valued independently, which we believe will drive significant re-rating. Our new FMCG brands have achieved ₹1,000 Cr run rate faster than any competitor.' BAT's stake sale is ongoing — they sold 3.5% in FY25 and are expected to sell another 2-3% in FY26."
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "tickers": [
+    "RELIANCE",
+    "TCS",
+    "HDFCBANK",
+    "INFY",
+    "ITC"
+  ],
+  "preferences": {
+    "min_backtest_success_rate": 0.65,
+    "min_cluster_size": 2,
+    "notify_on_sectors": [
+      "Technology",
+      "Banking",
+      "Energy",
+      "FMCG"
+    ]
+  }
+}

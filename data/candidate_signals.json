@@ -1,0 +1,109 @@
+[
+  {
+    "cluster_id": "cls_20260329_174317_905dd7",
+    "ticker": "RELIANCE",
+    "signal_type": "INSIDER_CLUSTER",
+    "insider_count": 3,
+    "direction": "BUY",
+    "combined_value_inr": 37500000,
+    "window_start": "2026-03-15",
+    "window_end": "2026-03-20",
+    "constituent_signal_ids": [
+      "sig_20260329_174311_128315",
+      "sig_20260329_174311_5542dc",
+      "sig_20260329_174311_818ace"
+    ],
+    "actors": [
+      "Director — Nikhil R. Meswani",
+      "KMP — Srinivas Phatak (CFO)",
+      "Director — Hital R. Meswani"
+    ],
+    "status": "CANDIDATE",
+    "z_score": 3.54,
+    "requires_hitl": true
+  },
+  {
+    "cluster_id": "cls_20260329_174317_e42b54",
+    "ticker": "RELIANCE",
+    "signal_type": "INSIDER_CLUSTER",
+    "insider_count": 2,
+    "direction": "BUY",
+    "combined_value_inr": 18750000,
+    "window_start": "2026-03-18",
+    "window_end": "2026-03-20",
+    "constituent_signal_ids": [
+      "sig_20260329_174311_5542dc",
+      "sig_20260329_174311_818ace"
+    ],
+    "actors": [
+      "Director — Nikhil R. Meswani",
+      "KMP — Srinivas Phatak (CFO)"
+    ],
+    "status": "CANDIDATE",
+    "z_score": 2.12,
+    "requires_hitl": false
+  },
+  {
+    "cluster_id": "cls_20260329_174317_da8c02",
+    "ticker": "TCS",
+    "signal_type": "INSIDER_CLUSTER",
+    "insider_count": 2,
+    "direction": "BUY",
+    "combined_value_inr": 19000000,
+    "window_start": "2026-03-12",
+    "window_end": "2026-03-16",
+    "constituent_signal_ids": [
+      "sig_20260329_174311_e4fb3e",
+      "sig_20260329_174311_453ff0"
+    ],
+    "actors": [
+      "Director — N. Ganapathy Subramaniam",
+      "Director — Rajesh Gopinathan"
+    ],
+    "status": "CANDIDATE",
+    "z_score": 2.12,
+    "requires_hitl": false
+  },
+  {
+    "cluster_id": "cls_20260329_174317_2bb488",
+    "ticker": "HDFCBANK",
+    "signal_type": "INSIDER_CLUSTER",
+    "insider_count": 2,
+    "direction": "BUY",
+    "combined_value_inr": 57750000,
+    "window_start": "2026-03-24",
+    "window_end": "2026-03-26",
+    "constituent_signal_ids": [
+      "sig_20260329_174311_83e1cb",
+      "sig_20260329_174311_07e602"
+    ],
+    "actors": [
+      "Director — Atanu Chakraborty",
+      "Director — Kaizad Bharucha (ED)"
+    ],
+    "status": "CANDIDATE",
+    "z_score": 2.55,
+    "requires_hitl": false
+  },
+  {
+    "cluster_id": "cls_20260329_174317_8f0eee",
+    "ticker": "INFY",
+    "signal_type": "INSIDER_CLUSTER",
+    "insider_count": 2,
+    "direction": "SELL",
+    "combined_value_inr": 23250000,
+    "window_start": "2026-03-10",
+    "window_end": "2026-03-14",
+    "constituent_signal_ids": [
+      "sig_20260329_174311_46b422",
+      "sig_20260329_174311_c9328b"
+    ],
+    "actors": [
+      "KMP — Jayesh Sanghrajka (CFO)",
+      "Promoter — Nandan Nilekani"
+    ],
+    "status": "CANDIDATE",
+    "z_score": 2.12,
+    "requires_hitl": false
+  }
+]
